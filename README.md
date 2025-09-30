@@ -200,22 +200,6 @@ def bezier_curve(points, steps=200):
 - **Tiempo**: O(n × m) donde n = número de puntos de control, m = steps (resolución)
 - **Espacio**: O(m) para almacenar los puntos de la curva
 
-## 🛠️ Posibles Extensiones
-
-- [ ] Exportar imagen a PNG/SVG
-- [ ] Guardar/cargar proyectos (JSON)
-- [ ] Animación del parámetro t
-- [ ] Subdivisión de De Casteljau
-- [ ] Curvas B-Spline
-- [ ] Superficies de Bézier (3D)
-- [ ] Continuidad C0, C1, C2 entre curvas
-- [ ] Colores personalizables
-
-## 📚 Referencias
-
-- **Bézier, P.** (1972). *Numerical Control: Mathematics and Applications*
-- **Farin, G.** (2002). *Curves and Surfaces for CAGD: A Practical Guide*
-- **Rogers, D.F.** (2001). *An Introduction to NURBS*
 
 ## 👨‍💻 Autores
 
