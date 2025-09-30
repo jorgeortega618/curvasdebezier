@@ -200,15 +200,6 @@ def bezier_curve(points, steps=200):
 - **Tiempo**: O(n × m) donde n = número de puntos de control, m = steps (resolución)
 - **Espacio**: O(m) para almacenar los puntos de la curva
 
-## 🎓 Aplicaciones Educativas
-
-Este proyecto es ideal para:
-- Cursos de **Computación Gráfica**
-- Cursos de **Geometría Computacional**
-- Visualización de conceptos de **interpolación paramétrica**
-- Introducción a **interfaces gráficas** con Tkinter
-- Práctica de **programación orientada a eventos**
-
 ## 🛠️ Posibles Extensiones
 
 - [ ] Exportar imagen a PNG/SVG
@@ -226,9 +217,13 @@ Este proyecto es ideal para:
 - **Farin, G.** (2002). *Curves and Surfaces for CAGD: A Practical Guide*
 - **Rogers, D.F.** (2001). *An Introduction to NURBS*
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Proyecto desarrollado para el curso de Computación Gráfica.
+- Juan Acosta
+- Laura Arteta
+- Jorge Ortega
+
+
 
 ## 📄 Licencia
 
